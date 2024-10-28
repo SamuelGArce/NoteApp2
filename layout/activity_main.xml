@@ -51,5 +51,13 @@
 
         </LinearLayout>
 
+        <EditText
+            android:id="@+id/editTextTextMultiLine3"
+            android:layout_width="match_parent"
+            android:layout_height="236dp"
+            android:ems="10"
+            android:gravity="start|top"
+            android:inputType="textMultiLine" />
+
     </LinearLayout>
 </android.support.constraint.ConstraintLayout>
